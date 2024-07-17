@@ -219,7 +219,7 @@ span{
     height: 100%;
     background: transparent;
     transition: 3s;
-    background: url(small sized.png);
+    background: url(small-sized.png);
     background-repeat: no-repeat;
     background-size: contain;
     background-position: right;
